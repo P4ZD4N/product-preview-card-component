@@ -19,8 +19,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/P4ZD4N/product-preview-card-component](https://github.com/P4ZD4N/product-preview-card-component)
+- Live Site URL: [https://wiktorccardcomponent.vercel.app/](https://wiktorccardcomponent.vercel.app/)
 
 ## My process
 
